@@ -1,4 +1,4 @@
-#nightwatch-intro
+# nightwatch-intro
 
 Nightwatch.js is an automated end-to-end testing framework for web applications and websites. It is written in Node.js and uses the W3C WebDriver API (formerly Selenium WebDriver) for interacting with various browsers.
 
