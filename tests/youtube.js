@@ -1,6 +1,7 @@
 module.exports = {
 
     '@tags': ['youtube'],
+    '@diabled': true,  // added for travis remove it if needed
     'Youtube Test' (browser) {
 
        const searchQuerySelector = 'input[id="search"]'
