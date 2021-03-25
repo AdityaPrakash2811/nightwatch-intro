@@ -1,7 +1,6 @@
 module.exports = {
 
     '@tags': ['googleTest'],
-    '@disabled': true,      // added for travis remove it if needed
     'Google Test' (browser) {
 
         const inputQuerySelector = 'input[name="as_q"]'
